@@ -1,8 +1,6 @@
 # Data & model artifacts
 data/
 models/
-outputs/
-checkpoints/
 *.safetensors
 *.bin
 *.pt
